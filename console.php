@@ -10,3 +10,4 @@ echo 'four commit';
 
 
 echo 'hot-fix commit 1';
+echo 'hot-fix commit 2';
